@@ -1,0 +1,11 @@
+- 李臨
+- family
+	- husband of Hesina
+	- children
+		- [[Kaladin]]
+		- Tien
+		- Oroden
+- doctor
+- traits
+	- realist
+	- anti any violence

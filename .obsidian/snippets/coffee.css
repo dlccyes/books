@@ -1,0 +1,84 @@
+root {
+    --font-text: "Baloo Paaji 2", "Myuppy";
+    --text-normal: #e1ca9d;
+}
+
+.theme-dark{
+    /*blue nebula*/
+    /*background-image: url(https://i.imgur.com/C90lb3z.jpg) !important;*/
+    /*purple nebula*/
+    /*background-image: url(https://i.imgur.com/hAcGmG3.jpg) !important;    */
+    /*anime cafe*/
+    background-image: url("https://bit.ly/3jMF8MI") !important;
+    /*false hope*/
+    /*background-image: url("https://i.imgur.com/FS1SsUU.jpg") !important;*/
+    /*egypt project*/
+    /*background-image: url("https://i.imgur.com/LykyHH7.jpg") !important;*/
+    background-size: cover;
+    background-position: 0% 90%;
+    --bgcolor: #00000066;
+    --background-primary: var(--bgcolor);
+    --background-secondary: var(--bgcolor);
+    --background-secondary-alt: var(--bgcolor);
+    --text-selection: #f7925b52;
+}
+.menu, .popover, .suggestion-container {
+    background-color: #2a0404dd !important;
+    border-radius: 20px;
+    border: 1px solid #79531a;
+}
+.markdown-source-view.mod-cm6 .cm-scroller {
+    font-family: "Baloo Paaji 2", "Myuppy" !important;
+}
+
+body, .markdown-source-view.mod-cm6 .cm-scroller, .markdown-source-view, .markdown-preview-view blockquote {
+    font-family: "Baloo Paaji 2", "Myuppy" !important;
+    color: #e1ca9d;
+}
+.cm-hmd-frontmatter {
+    font-family: Consolas, Hack, Myuppy !important;
+}
+
+a:hover, .cm-url, .cm-hmd-internal-link:hover {
+    color: #d0c759 !important;
+}
+
+.status-bar {
+    background-color: #230101b8;
+}
+.view-header {
+    background: #230101aa;
+}
+.workspace-ribbon.mod-left {
+    border: none !important;
+    background: linear-gradient(to top, #191715bf, #3d2607bf);
+}
+.markdown-preview-view img {
+    display: block;
+    width: 100%;
+    /* experiment with values */
+    transition: transform 0.25s ease;
+    /*transition: all 500ms ease-in;*/
+}
+.markdown-preview-view img:hover {
+    /*-webkit-transform: scale(1.8);*/
+    /* experiment with values */
+    transition-delay: 500m？
+    /*z-index: 100px;*/
+    /*height: 100vh;*/
+    /*width: 1080px;*/
+
+
+}
+
+/* inline code preview*/
+.markdown-preview-section pre code, .markdown-preview-section code {
+    font-size: 0.9em !important;
+    background-color: #372611 !important;
+    font-family: Consolas, Myuppy !important;
+}
+
+/* inline code edit */
+.cm-s-obsidian span.cm-inline-code {
+    font-family: Consolas, Myuppy !important;
+}

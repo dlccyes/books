@@ -1,0 +1,14 @@
+---
+alias: 凡莉
+---
+- a [[Singer]]
+- a [[Willshaper]]
+	- bond with Timbre
+		- 音質
+		- a [[lightspren]]
+- can use both [[stormlight]] & [[voidlight]]
+- scholar
+- younger sister of [[Eshonai]]
+- servant & translator of [[Leshwi]]
+- "the last [[listener]]"
+- "The daughter of traitors"

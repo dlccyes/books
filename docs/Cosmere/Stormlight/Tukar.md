@@ -1,0 +1,2 @@
+- a country in [[Roshar]]
+- ruled by [[Ishar]]

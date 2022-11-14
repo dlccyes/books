@@ -1,0 +1,6 @@
+- abilities
+	- [[Progression]]
+	- [[Abrasion]]
+- from [[cultivationspren]]
+- instances
+	- [[Lift]]

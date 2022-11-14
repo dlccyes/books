@@ -1,0 +1,3 @@
+- a group of [[Elantrian]] worldhoppers from [[Sel]]
+- build a fortress in the [[Scadrial]] part of [[Cognitive Realm]]
+	- [[Kelsier]] saw it in [[Secret History]]

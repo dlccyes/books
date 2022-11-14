@@ -1,0 +1,12 @@
+---
+alias: 織光師
+---
+- 織光師
+- ability
+	- [[Illumination]]
+	- [[Transformation]]
+- instances
+	- [[Shallan]]
+	- [[Ishnah]]
+	- [[Vathah]]
+	- [[Beryl]]

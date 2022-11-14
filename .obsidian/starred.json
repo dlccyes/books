@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Auction Design and Analysis for SDN-Based Traffic Offloading in Hybrid Satellite-Terrestrial Networks",
+      "path": "NTUnotes/Junior/Game Theory Papers/Auction Design and Analysis for SDN-Based Traffic Offloading in Hybrid Satellite-Terrestrial Networks.md"
+    },
+    {
+      "type": "file",
+      "title": "Game Theory",
+      "path": "NTUnotes/Junior/Game Theory.md"
+    },
+    {
+      "type": "file",
+      "title": "events",
+      "path": "events.md"
+    },
+    {
+      "type": "file",
+      "title": "tasks",
+      "path": "tasks.md"
+    },
+    {
+      "type": "file",
+      "title": "everyday workflow",
+      "path": "obs_templater/everyday workflow.md"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+---
+alias: Azure, 維溫娜, 亞夙兒
+---
+- in [[Warbreaker]]
+	- Vivenna
+		- 維溫娜
+	- princess
+- older sister of [[Siri]]
+- [[worldhopper]]
+- in [[Stormlight Archive]]
+	- Azure
+		- 亞夙兒

@@ -1,0 +1,3 @@
+- book 3 of [[Stormlight Archive]]
+- progression
+	- [[Battle of Thaylen Field]]

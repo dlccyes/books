@@ -1,0 +1,7 @@
+- greatest power of all [[Knight Radiant]] type
+- abilities
+	- [[Adhesion]]
+	- [[Tension]]
+- for connecting things
+- instances
+	- [[Dalinar]]

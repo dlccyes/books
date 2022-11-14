@@ -1,0 +1,13 @@
+---
+alias: Transformation, 魂術, soulcaster, 魂師
+---
+- [[Transformation]]
+- 魂術
+- soulcaster
+	- 魂師
+- a form of [[Surge]]
+- transformation
+- soulcaster
+	- 魂師
+	- a soulcasting [[fabrial]]
+	- a person  soulcasting with or without fabrial

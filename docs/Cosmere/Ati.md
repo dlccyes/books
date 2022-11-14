@@ -1,0 +1,2 @@
+- vessel of [[Ruin]]
+- killed and killed by [[Vin]], in [[Mistborn (book)|Mistborn]]

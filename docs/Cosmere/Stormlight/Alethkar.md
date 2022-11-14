@@ -1,0 +1,2 @@
+- 雅列席卡
+- big Eastern Roshar nation

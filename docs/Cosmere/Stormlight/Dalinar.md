@@ -1,0 +1,27 @@
+---
+alias: 達利納, 黑刺, Blackthorn
+---
+- 達利納
+- Blackthorn
+	- 黑刺
+- Dalinar Kholin
+- family
+	- secretly love [[Navani]], but she chose [[Gavilar]]
+	- marry to [[Navani]] in [[Oathbringer]]
+	- brother of [[Gavilar]]
+- about
+	- warlord
+	- alcoholic
+- [[Bondsmith]]
+	- bond with [[Stormfather]]
+	- abilities
+		- [[Honor]]'s [[perpendicularity]]
+			- 垂裂點
+			- connect all 3 realms
+			- access infinite [[stormlight]]
+- stories 
+	- ex wife Evi
+		- accidentally killed her
+	- curse from [[Cultivation]]
+		- visit [[Nightwatcher]]
+		- forget and ignore everything about his ex wife

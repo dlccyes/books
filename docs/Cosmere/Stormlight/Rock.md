@@ -1,0 +1,12 @@
+---
+alias: 大石
+---
+- [[Bridge Four]]
+- 大石
+- cook
+- from [[Horneater Peaks]]
+- wife
+	- 頌恩
+- children
+	- 可絨
+		- have shardblade

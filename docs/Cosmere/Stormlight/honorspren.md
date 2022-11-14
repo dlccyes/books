@@ -1,0 +1,12 @@
+- a kind of [[spren]]
+- makes [[Windrunner]]
+- view integrity to an unhealthy extent
+- history
+	- almost all honorspren bonded with humans and were killed in [[Recreance]]
+	- honorspren view humans as criminals afterward
+	- the fact that [[Syl]] bonds with human make them hate humans even more 
+- [[Lasting Integrity]]
+	- their capital in [[Shadesmar]]
+- instances
+	- [[Syl]]
+	- [[Notum]]

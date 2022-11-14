@@ -1,0 +1,3 @@
+- a shardbearer
+- older sister of [[Venli]]
+- killed in [[War of Reckoning]]

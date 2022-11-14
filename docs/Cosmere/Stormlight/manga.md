@@ -1,0 +1,3 @@
+## yuri
+
+- https://lilymanga.com/

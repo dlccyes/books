@@ -1,0 +1,6 @@
+- from the death of [[Gavilar]]
+- [[Alethkar]] vs. [[Singer]]
+- stories
+	- [[Everstorm]] was summoned in the end by [[Singer]] in stormform singing a song together
+		- [[Shallan]] then transport people to [[Urithiru]] with [[Oathgate]]
+		- the mind of [[Singer|Parshmen]] were restored

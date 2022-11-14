@@ -1,0 +1,5 @@
+- a storm of [[Odium]]'s power
+- west-to-east
+	- opposite direction to [[highstorm]]
+- [[Fused]] can reborn via it
+	- by occupying a [[Singer]] still

@@ -1,0 +1,5 @@
+- town lord: Roshone
+- [[Lirin]] practive surgery here
+- [[Kaladin]]'s childhood town
+- occupide by [[Fused]] after Everstorm
+- 

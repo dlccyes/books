@@ -1,0 +1,10 @@
+- Type Two Invested entity
+	- 第二類授予實體
+- shadow of an entity
+- need strong power to be created
+- can be put back to a physical body
+- examples
+	- [[Fused]]
+	- [[Herald]]
+	- [[Vasher]]
+	- [[Szeth]] (?)

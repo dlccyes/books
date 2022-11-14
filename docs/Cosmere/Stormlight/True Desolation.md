@@ -1,0 +1,4 @@
+- after [[Odium]] splintered [[Honor]]
+- started from [[Oathbringer]]
+- after Everstorm
+- [[Battle of Thaylen Field]]

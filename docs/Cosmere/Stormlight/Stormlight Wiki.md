@@ -1,0 +1,70 @@
+- Eras
+	- [[True Desolation]]
+- [[Surgebinder]]
+	- 封波師
+- ardent
+	- 執徒
+	- Vorinism priest
+- Vorinism
+	- major Eastern Roshar religion
+- [[Gavilar]] Kholin
+	- 加維拉
+	- brother of [[Dalinar]]
+- Aesudan
+	- 愛蘇丹
+	- [[Elhokar]]'s wife
+- [[Elhokar]] Kholin
+	- 艾洛卡
+	- killed by Moash
+- [[Amaram]]
+	- 阿瑪朗
+- [[fabrial]]
+	- 法器
+- [[Herdaz]]
+	- 賀達熙
+	- North-Eastern kingdom
+	- above [[Alethkar]]
+- [[Taravangian]]
+	- random IQ man
+	- created the diagram
+- Dieno enne Calah 
+	- 迪耶諾
+	- enne
+		- 水貂
+	- leader of Herdaz vs. singers
+- [[Lirin]]
+	- 李臨
+	- doctor
+- Roshone
+	- 羅賞
+- Everstorm
+	- 永颶
+- [[Hearthstone]]
+	- 爐石鎮
+- [[Fused]]
+	- 煉魔
+	- souls of ancient singers occupying a living [[Singer|Singer]]'s body
+- Kholinar 科林納
+- Eshonai 伊尚尼
+- [[Singer|Parshmen]] 帕西人
+- [[shardblade]] 碎刃
+- Shardplate 碎甲
+- spren 靈
+- Shattered Pains 破碎平原
+- Knight Radiant 燦軍
+- [[Desolation]]
+- [[Honor|Almightly]]
+	- 全能之主
+- Soulcaster 魂器
+- [[Sadeas]] 薩迪亞斯
+- [[Ialai]]
+	- 雅萊
+- brightlord 光主
+- [[Adolin]] 雅多林
+- Assassin in White 白衣殺手
+- bridgeman 橋兵
+- Damnation 詛咒之父
+- [[Renarin]] 雷納林
+- Aladar 艾拉達
+- [[Teft]]
+	- 泰夫

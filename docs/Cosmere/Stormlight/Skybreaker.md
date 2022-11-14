@@ -1,0 +1,3 @@
+- abilities
+	- [[Division]]
+- bond with [[highspren]]

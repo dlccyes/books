@@ -1,0 +1,11 @@
+---
+alias: 偽擬寂滅
+---
+- not exactly a [[Desolation]]
+	- no [[Fused]] involved as they're still locked
+- [[Ba-Ado-Mishram]] enable [[Singer]] to access [[voidlight]] and use power by connecting to herself
+- [[Knight Radiant]] captured [[Ba-Ado-Mishram]] in a gemstone and [[Singer]]'s soul become incomplete as singers were connected to her
+- [[Knight Radiant]] abandoned their oath, killing their [[spren]], which become unoccupied [[shardblade]] later on
+	- known as [[Recreance]]
+- [[Singer]] become human's slave as a result
+	- but [[listener]] wasn't affected

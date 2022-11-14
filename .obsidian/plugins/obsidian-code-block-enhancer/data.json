@@ -1,0 +1,8 @@
+{
+  "excludeLangs": [
+    "tasks"
+  ],
+  "showLangName": true,
+  "showLineNumber": true,
+  "useContextMenu": true
+}

@@ -1,0 +1,12 @@
+---
+alias: 授予
+---
+- 授予
+- magic power of [[Cosmere]]
+- type
+	- tyle 1 invested entity
+		- investiture that becomes sapient itself
+		- [[spren]]
+	- tyle 2 invested entity
+		- [[cognitive shadow]]
+		- a sapient shadow of a sapient being created with strong investiture

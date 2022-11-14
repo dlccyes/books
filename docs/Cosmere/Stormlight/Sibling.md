@@ -1,0 +1,6 @@
+- a [[spren]]
+- created by [[Honor]] & [[Cultivation]] to fight against [[Odium]]
+- occupied the tower of [[Urithiru]]
+- can create [[Bondsmith]]
+- half-dead
+- in [[Rhythm of War]]

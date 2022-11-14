@@ -1,0 +1,1 @@
+- appendix of every [[Cosmere]] book, about the magic system and other settings of each world

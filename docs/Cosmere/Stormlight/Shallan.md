@@ -1,0 +1,32 @@
+---
+alias: 紗藍
+---
+
+- Shallan Davar
+	- 紗藍 達伐
+- personalities
+	- Shallan
+		- girly
+	- Veil
+		- 圍紗
+		- manly
+		- different appearance using [[Lightweaver|lightweaving]]
+		- spy mode
+	- Radiant
+		- professional
+		- noble
+		- fight modepd
+- [[spren]]
+	- [[Pattern]]
+- family
+	- marry to [[Adolin]] in [[Oathbringer]]
+- alias
+	- 查娜紗
+- connections
+	- have something with [[Kaladin]]
+	-  [[Ghostbloods]]
+- stories
+	- [[Jasnah]]'s apprentice
+		- Shallan's family relies on a [[Soulcasting|soulcaster]], but it broke
+		- [[Jasnah]] has a soulcaster, so Shallan decided to become her apprentice and stole it
+		- after many things, Shallan begins aiding Jasnah's research with full heart

@@ -1,0 +1,24 @@
+---
+alias: 碎神
+---
+
+- [[Harmony]]
+	- created in [[Mistborn (book)|Mistborn]], mixing the power of [[Preservation]] & [[Ruin]]
+	- vessel
+		- [[Sazed]]
+- [[Preservation]]
+	- vessel
+		- [[Leras]]
+		- [[Rashek]]
+		- [[Kelsier]]
+		- [[Vin]]
+- [[Ruin]]
+	- vessel
+		- [[Ati]]
+- [[Odium]]
+	- Rayse
+- [[Honor]]
+	- [[Tanavast]]
+- [[Mercy]]
+- [[Whimsy]]
+- [[Valor]]

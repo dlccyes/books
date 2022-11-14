@@ -1,0 +1,12 @@
+---
+alias: 幽界
+---
+- 幽界
+- main 
+- [[Cognitive Realm]] in [[Roshar]]
+- main area for [[spren]]
+- object -> bead
+- [[Physical Realm]] land -> sea of beads
+	- also has (water) flow for some reason
+- [[Physical Realm]] ocean -> land of obsidian
+- lack of [[stormlight]]

@@ -1,0 +1,8 @@
+- Torol Sadeas
+- 薩迪亞斯
+- husband of [[Ialai]]
+- big power in [[Alethkar]]
+- story
+	- become the enemy of [[Dalinar]] power
+- death
+	- killed by [[Adolin]] in [[Urithiru]]

@@ -1,0 +1,65 @@
+.theme-dark{
+    /*blue nebula*/
+    /*background-image: url(https://i.imgur.com/C90lb3z.jpg) !important;*/
+    /*purple nebula*/
+    /*background-image: url(https://i.imgur.com/hAcGmG3.jpg) !important;    */
+    /*anime cafe*/
+    /*background-image: url("https://bit.ly/3jMF8MI") !important;    */
+    /*false hope*/
+    background-image: url("https://i.imgur.com/FS1SsUU.jpg") !important;
+    /*egypt project*/
+    /*background-image: url("https://i.imgur.com/LykyHH7.jpg") !important;*/
+    background-size: cover;
+    background-position: 0% 90%;
+    --bgcolor: #00000066;
+    --background-secondary-alt: var(--bgcolor);
+    --background-primary: var(--bgcolor);
+    /*
+    --background-secondary: var(--bgcolor);
+    --text-selection: #f7925b52;
+    */
+}
+.theme-dark {
+    --background-secondary: #262a33d9;
+    --font-monospace: 'Hack Nerd Font', 'Source Code Pro', "Microsoft YaHei", monospace;
+    --text-highlight-bg: #945dba80;
+}
+.theme-dark{
+    /* headings */
+	--text-title-h1: #f2261d;
+    --text-title-h2: #f2441d;
+    --text-title-h3: #f27f1d;
+    --text-title-h4: #f2a61d;
+    --text-title-h5: #f2d81d;
+    /* link */
+    --text-a: #b2d8e3fc;
+    --text-a-hover: #82e1ae;
+}
+.cm-url{
+    color: var(--text-a) !important;
+}
+:root {
+    --default-font: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei", sans-serif;
+}
+.popover.hover-popover {
+	/*
+    max-height: 600px;
+    height: 600px !important;
+    
+	min-height: 600px;
+	*/
+    width: 500px;
+    background-color: #1b1d27de;
+}
+/* suggestion container in edit mode */
+.suggestion-container {
+	background-color: #00082ec4;
+}
+strong {
+    font-weight: 600 !important;
+    color: #ffda95;
+}
+/* right click menu */
+.menu{
+    --background-primary: #0f242dc9;
+}

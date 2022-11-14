@@ -1,0 +1,4 @@
+- a separated group of [[Singer]]
+- escape the control [[Odium]] & [[Fused]] for freedom, but sacrifice some memory & forms
+- not affected by [[False Desolation]]
+- the only sapeint group of [[Singer]] after [[False Desolation]]

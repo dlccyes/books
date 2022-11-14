@@ -1,0 +1,7 @@
+- abilities
+	- teleport
+	- connect [[Physical Realm]] & [[Cognitive Realm]]
+- [[Surgebinder]] with this ability
+	- [[Elsecaller]]
+	- [[Willshaper]]
+	- [[Nex-im]]

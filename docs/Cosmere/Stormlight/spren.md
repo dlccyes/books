@@ -1,0 +1,14 @@
+- [[Splinter]] of [[Honor]]
+- fully sapient in [[Shadesmar]]
+- unconcsious in [[Physical Realm]] without [[Nahel bond]]
+- [[Nahel bond]]
+	- bond between [[spren]] and a human or [[Singer|Singer]]
+	- enable spren to be consious in [[Physical Realm]]
+	- enable binder to use [[Surge]]
+- tyle one invested entity
+	- 第一類授予實體
+- types
+	- [[honorspren]]
+	- [[Cryptics]]
+	- [[cultivationspren]]
+	- [[mistspren]]

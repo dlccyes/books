@@ -1,0 +1,3 @@
+- those under the control of [[Odium]]
+- [[Fused]]
+- [[Regal]]

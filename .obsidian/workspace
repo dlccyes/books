@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "1b402d92eb4c7cba",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ff86d6dfe5b021",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stormlight/Ghostbloods.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "712b77944250b7c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stormlight/Thaidakar.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b38390f1272c4eb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stormlight/Unmade.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fe5b284af533779",
+    "type": "split",
+    "children": [
+      {
+        "id": "50c7126381c3c50e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c495f90fbbb098",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "08d4cac0dcdd96fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "coppermind",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56b193b9620f4512",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "777a36cca0315b66",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "397d85049a348154",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fe64eabbf67d148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "741d7754dcff9fac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stormlight/Thaidakar.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c45000b6b55d2fe1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6cda279d3c6d4fd1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stormlight/Thaidakar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b82596873c29f420",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stormlight/Thaidakar.md"
+              }
+            }
+          },
+          {
+            "id": "63df0ef26b19b68e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Stormlight/Thaidakar.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000002,
+                  "close": false
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 618.5
+  },
+  "active": "712b77944250b7c4",
+  "lastOpenFiles": [
+    "Stormlight/Thaidakar.md",
+    "Stormlight/Ghostbloods.md",
+    "Stormlight/Herald.md",
+    "Stormlight/Kalak.md",
+    "Stormlight/Unmade.md",
+    "Stormlight/Bondsmith.md",
+    "Stormlight/Taln.md",
+    "Stormlight/Jezrien.md",
+    "Stormlight/Ishar.md",
+    "Stormlight/Shalash.md"
+  ]
+}

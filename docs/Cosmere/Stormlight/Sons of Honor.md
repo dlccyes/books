@@ -1,0 +1,8 @@
+- secret organization in [[Roshar]]
+- goal
+	- return [[Vorin]] church power
+	- bring back [[Voidbringer]] & [[Desolation]]
+- leader
+	- [[Kalak]]
+- members
+	- [[Gavilar]]

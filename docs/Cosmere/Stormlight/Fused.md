@@ -1,0 +1,29 @@
+- 煉魔
+- [[cognitive shadow]] of ancient singers occupying a living [[Singer|Singer]]'s body
+- can revive in Everstorm
+- [[Surgebinder|surgebinding]] by getting power from [[Odium]] directly
+- have 9 brands, each brand can use 1 [[Surge]]
+- brands
+	- [[Shanay-im]]
+		- 沙奈印
+		- Heavenly Ones
+			- 天行者
+		- can use [[Gravitation]]
+		- flies slower than [[Windrunner]]
+		- don't consume [[voidlight]] to lash themselves
+		- need [[voidlight]] to heal or lash others
+	- [[Shetel-im]]
+		- 虛特印
+		- can use [[Abrasion]]
+	- [[Makay-im]]
+		- 馬凱印
+		- Deepest Ones
+			- 深淵者
+		- can use [[Cohesion]]
+	- [[Nex-im]]
+	- [[Fannahn-im]]
+		- can use [[Transformation]]
+- instances
+	- [[Leshwi]]
+	- [[Raboniel]]
+	- [[Lezian]]

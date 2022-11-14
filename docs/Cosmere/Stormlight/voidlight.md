@@ -1,0 +1,2 @@
+- [[investiture]] of [[Odium]]
+- voidlight won't be consumed

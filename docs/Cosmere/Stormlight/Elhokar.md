@@ -1,0 +1,4 @@
+- 艾洛卡
+- Elhokar Kholin
+- son of [[Gavilar]] & [[Navani]]
+- killed by Moash

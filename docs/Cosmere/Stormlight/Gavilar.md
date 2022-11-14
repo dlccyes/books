@@ -1,0 +1,26 @@
+---
+alias: 加維拉
+---
+
+- reference
+	- https://coppermind.net/wiki/Gavilar_Kholin
+- meta
+	- Gavilar Kholin
+	- 加維拉
+- about
+	- king
+	- chad
+	- career-driven
+	- despise everybody else
+- family
+	- husband of [[Navani]]
+	- brother of [[Dalinar]]
+	- children
+		- [[Elhokar]]
+		- [[Jasnah]]
+- stories
+	- united [[Alethkar]]
+- death
+	- killed by [[Szeth]]
+		- fell from balconi
+	- lead to [[War of Reckoning]]

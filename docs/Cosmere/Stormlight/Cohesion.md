@@ -1,0 +1,12 @@
+---
+alias: 聚合, stoneshaping, 塑岩術
+---
+- 聚合
+- stoneshaping
+	- 塑岩術
+- a type of [[Surge]]
+- change stone to other things
+- [[Surgebinder]] with this ability
+	- [[Stoneward]]
+	- [[Willshaper]]
+	- [[Makay-im]]

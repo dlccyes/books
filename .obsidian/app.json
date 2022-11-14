@@ -1,0 +1,21 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "obs_autolink",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "obs_attachment",
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabeticalReverse",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false
+}

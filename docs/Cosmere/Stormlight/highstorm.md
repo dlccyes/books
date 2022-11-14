@@ -1,0 +1,3 @@
+- a storm of [[Honor]]'s power
+	- contains [[stormlight]]
+- east-to-west

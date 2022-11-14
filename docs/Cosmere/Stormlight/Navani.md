@@ -1,0 +1,4 @@
+- family
+	- like [[Dalinar]] & [[Gavilar]]
+	- wife of [[Gavilar]]
+	- 

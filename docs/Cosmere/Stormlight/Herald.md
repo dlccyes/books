@@ -1,0 +1,19 @@
+---
+alias: 神將
+---
+- 神將
+- [[honorblade]]
+- [[cognitive shadow]] from the power of [[Honor]]
+- [[oathpact]]
+- 10 Heralds
+	- [[Shalash]]
+		- 紗拉希
+	- [[Taln]]
+		- 塔勒奈拉
+	- [[Ishar]]
+		- 艾沙
+	- [[Nale]]
+		- 納拉
+	- [[Jezrien]]
+		- 加斯倫
+	- [[Kalak]]

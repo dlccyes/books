@@ -1,0 +1,13 @@
+---
+alias: 寂滅
+---
+- 寂滅
+- epic war between human & [[Singer|Singer]], lead by [[Herald]] & [[Fused]]
+- 10 humans form [[oathpact]] with [[Honor]] and become [[Herald]], enabling them to lock [[Fused]] in [[Braize]]
+- [[Herald]] can also let the [[Fused]] return to [[Roshar]] if they want, so [[Fused]] would try to capture [[Herald]] and torture them
+- when a [[Herald]] give up and let [[Fused]] return to [[Roshar]], a Desolation begins
+- after dying, [[Herald]] will resurrect in [[Braize]]
+- important Desolations
+	- [[Last Desolation]]
+	- [[False Desolation]]
+	- [[True Desolation]]

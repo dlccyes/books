@@ -1,0 +1,4 @@
+- random IQ man
+	- from [[Cultivation]], in the visit to [[Nightwatcher]]
+- created the [[Diagram]]
+- rules [[Kharbranth]]
