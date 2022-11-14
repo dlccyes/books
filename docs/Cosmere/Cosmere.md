@@ -7,7 +7,7 @@
 		- http://cosmerezh.wikidot.com/
 
 ## Stories
-- [[Stormlight Archive]]
+- [[The Stormlight Archive]]
 - [[Mistborn (book)]]
 
 ## God
@@ -44,7 +44,7 @@
 
 ## Worlds
 - [[Roshar System]]
-	- [[Stormlight Archive]]
+	- [[The Stormlight Archive]]
 - [[Yolen]]
 	- 原居民
 		- 原 [[Shard]] 載體們
@@ -62,6 +62,7 @@
 	- [[Shadows for Silence in the Forests of Hell]]
 
 ## [[worldhopper]]
+
 - 人物
 	- https://coppermind.net/wiki/Category:Worldhoppers
 	- [[Vivenna]]

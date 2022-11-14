@@ -1,7 +1,7 @@
 ---
 alias: 戰爭節奏
 ---
-- book 4 of [[Stormlight Archive]]
+- book 4 of [[The Stormlight Archive]]
 
 ## main events
 - went to [[Shadesmar]] on the mission of visiting [[Lasting Integrity]] and convincing [[honorspren]] to help them 

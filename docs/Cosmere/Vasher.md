@@ -5,7 +5,7 @@ alias: 法榭, Zahel, 薩賀
 - in [[Warbreaker]]
 	- Vasher
 		- 法榭
-- in [[Stormlight Archive]]
+- in [[The Stormlight Archive]]
 	- Zahel
 		- 薩賀
 		- dueling teacher of [[Adolin]] & [[Kaladin]]

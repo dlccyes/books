@@ -7,15 +7,7 @@ theme:
     text: Montserrat
   # logo: assets/logo.png
   palette:
-    primary: teal
-    # - scheme: thrill
-    #   toggle:
-    #     icon: material/weather-sunny
-    #     name: light mode
-    # - scheme: caliente
-    #   toggle:
-    #     icon: material/weather-night
-    #     name: dark mode
+    primary: green
   features:
     - navigation.instant
     - navigation.tabs
@@ -25,7 +17,7 @@ theme:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
 
 extra_css:
   - assets/style.css
@@ -51,7 +43,11 @@ repo_url: https://github.com/dlccyes/CollegeNotes
 site_name: Los Libros
 nav:
 - About: README.md
-- Cosmere: Cosmere/Cosmere.md
+- Database: database.md
+- Cosmere: 
+  - Cosmere/Cosmere.md
+  - Mistborn: "Cosmere/Mistborn (book).md"
+  - The Stormlight Archive: "Cosmere/Stormlight/The Stormlight Archive.md"
 - Blog ⧉: https://dlccyes.github.io/blog
 
 extra:

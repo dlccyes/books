@@ -1,6 +1,6 @@
 - planets
 	- [[Ashyn]]
 	- [[Roshar]]
-		- [[Stormlight Archive]]
+		- [[The Stormlight Archive]]
 	- [[Braize]]
 		- [[Odium]]'s planet

@@ -1,7 +1,7 @@
 ---
 alias: 霍德, 智臣
 ---
-- in [[Stormlight Archive]]
+- in [[The Stormlight Archive]]
 	- 智臣 of [[Elhokar]]
 - [[worldhopper]]
 - storyteller

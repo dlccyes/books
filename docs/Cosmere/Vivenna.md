@@ -7,6 +7,6 @@ alias: Azure, 維溫娜, 亞夙兒
 	- princess
 - older sister of [[Siri]]
 - [[worldhopper]]
-- in [[Stormlight Archive]]
+- in [[The Stormlight Archive]]
 	- Azure
 		- 亞夙兒

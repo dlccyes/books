@@ -22,5 +22,5 @@ alias: 加維拉
 	- united [[Alethkar]]
 - death
 	- killed by [[Szeth]]
-		- fell from balconi
+		- fell from balcony
 	- lead to [[War of Reckoning]]

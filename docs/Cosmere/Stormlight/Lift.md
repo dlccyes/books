@@ -1,6 +1,7 @@
 ---
 alias: 利芙特
 ---
+
 - 利芙特
 - cau use [[lifelight]]
 	- from [[Cultivation]], in the visit to [[Nightwatcher]]
