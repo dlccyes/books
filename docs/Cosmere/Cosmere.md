@@ -1,4 +1,4 @@
-## resources
+## Resources
 - wikis
 	- Coppermind
 		- https://coppermind.net/wiki/
@@ -61,7 +61,7 @@
 - [[Threnody]]
 	- [[Shadows for Silence in the Forests of Hell]]
 
-## [[worldhopper]]
+## [[Worldhopper]]
 
 - 人物
 	- https://coppermind.net/wiki/Category:Worldhoppers
@@ -76,7 +76,8 @@
 - to worldhop
 	- walk in [[Cognitive Realm]]
 
-## others
+## Others
+
 - Ars Arcanum
     - 每本書的 appendix，解釋 magic systems, world informations etc.
     - written by [[Khriss]]
