@@ -1,0 +1,2 @@
+- one living out of a [[Comm]]
+- despised

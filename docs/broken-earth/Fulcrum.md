@@ -1,0 +1,8 @@
+- main organization for managing [[Rogga]]s
+	- find [[Rogga]]s all over the [[Stillness]]
+		- educate those who can control themselves
+		- destroy or assign those who can't control themselves as [[Node Maintainer]]s
+	- OAAS ([[Orogeny]] As A Service)
+		- leveling term: # of rings (the more the better)
+		- sell their services to all over the world
+- located in [[Yumenes]]

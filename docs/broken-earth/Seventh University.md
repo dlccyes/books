@@ -1,0 +1,2 @@
+- founded after [[Sixth University]] destroyed
+- prestigious

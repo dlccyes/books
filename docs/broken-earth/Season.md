@@ -1,0 +1,3 @@
+- a period of time where the [[Stillness]] becomes almost inhabitable as a result of natural disasters
+	- volcano -> ashes in the sky -> no sunlight -> no plants
+- lasted from 1 or 2 years to centuries

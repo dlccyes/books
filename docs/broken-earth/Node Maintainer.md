@@ -1,0 +1,2 @@
+- a [[Rogga]] with enough power but can't control itself, assigned to all over the world by [[Fulcrum]] to protect "nodes" (area) by cancelling out shakes 
+- made unconscious with medicine, and protect their nodes through [[Orogeny]] reflexes 

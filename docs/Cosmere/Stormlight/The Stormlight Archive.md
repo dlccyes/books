@@ -3,10 +3,14 @@
 
 A massive [[Cosmere]] entry set in the [[Roshar System]].
 
-- [[Stormlight Wiki]]
-- entries
-	- [[The Way of Kings]]
-	- [[Words of Radiance]]
-	- [[Edgedancer (Book)|Edgedancer]]
-	- [[Oathbringer]]
-	- [[Rhythm of War]]
+## Wiki
+
+[[Stormlight Wiki]]
+
+## Entries
+
+- [[The Way of Kings]]
+- [[Words of Radiance]]
+- [[Edgedancer (Book)|Edgedancer]]
+- [[Oathbringer]]
+- [[Rhythm of War]]

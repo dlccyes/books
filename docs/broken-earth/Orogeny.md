@@ -1,0 +1,10 @@
+- abilities
+	- control energy
+		- cancel out or redirect shock waves
+		- absorb / redirect heat
+		- move rocks
+	- sense the Earth
+		- "sess" with their [[Sessepinae]]
+- power source: heat
+	- living things
+	- Earth heat

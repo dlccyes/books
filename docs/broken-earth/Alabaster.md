@@ -1,0 +1,4 @@
+- ten-ring [[Rogga|Orogene]]
+	- the only one
+- can eavedrop through stones
+- about 40yo when met [[Syenite]]

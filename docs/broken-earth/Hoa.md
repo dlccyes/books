@@ -1,0 +1,3 @@
+- a [[Stone Eater]]
+- eat a special crystal stone to imitate human appearance and behavior
+- likes [[Syenite|Eassun]]
