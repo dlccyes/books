@@ -1,4 +1,3 @@
-
 # The Stormlight Archive
 
 A massive [[Cosmere]] entry set in the [[Roshar System]].

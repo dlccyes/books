@@ -1,6 +1,8 @@
 ---
 alias: 卡拉丁
 ---
+# Kaladin
+
 - stormblessed
 	- 受颶風祝福者
 - son of [[Lirin]]

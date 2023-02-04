@@ -44,9 +44,9 @@ site_name: Los Libros
 nav:
 - About: README.md
 - Database: database.md
+- "broken-earth/Broken Earth.md"
 - Cosmere: 
   - Cosmere/Cosmere.md
-  - "broken-earth/Broken Earth.md"
   - Mistborn: "Cosmere/Mistborn (book).md"
   - The Stormlight Archive: "Cosmere/Stormlight/The Stormlight Archive.md"
 - Blog ⧉: https://dlccyes.github.io/blog

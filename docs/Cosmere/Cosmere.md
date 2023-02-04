@@ -1,3 +1,6 @@
+# Cosmere
+
+
 ## Resources
 - wikis
 	- Coppermind
@@ -6,11 +9,14 @@
 		- https://coppermind.huijiwiki.com/
 		- http://cosmerezh.wikidot.com/
 
+
 ## Stories
+
 - [[The Stormlight Archive]]
 - [[Mistborn (book)]]
 
 ## God
+
 - [[Adonalsium]]
 	- original god of [[Cosmere]]
         - shattering of Adonalsium
@@ -43,6 +49,7 @@
 			- 用 [[Preservation]] 的 power 跟 Ati 同歸於盡
 
 ## Worlds
+
 - [[Roshar System]]
 	- [[The Stormlight Archive]]
 - [[Yolen]]

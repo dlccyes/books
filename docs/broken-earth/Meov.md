@@ -1,0 +1,2 @@
+- an island east of the east coast lasting many seasons by giving [[Rogga]]s leadership roles
+- raid coastal [[Comm]]s for resources

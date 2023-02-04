@@ -2,6 +2,8 @@
 alias: Orogene
 ---
 
+# Rogga
+
 - those who can use [[Orogeny]]
 - managed by [[Fulcrum]]
 - despised and feared by most around the world

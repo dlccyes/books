@@ -2,9 +2,11 @@
 alias: Tonkee
 ---
 
+# Binof
+
 ## Child Life
 
-- Binof Leadership [[Yumenes]]
+- Binof [[Leadership]] [[Yumenes]]
 - daughter of the [[Yumenes]] leader
 - trans woman since very little 
 	- with some medicine

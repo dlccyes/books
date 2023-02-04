@@ -1,6 +1,9 @@
 ---
 alias: Singer, Parshmen, Parshendi
 ---
+
+# Singer
+
 - bond with [[voidspren]] -> [[Regal]]
 - alias
 	- Parshmen 

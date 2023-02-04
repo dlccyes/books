@@ -1,8 +1,12 @@
+# Broken Earth WIki
+
 - [[Rogga]] / [[Rogga|Orogene]]
 	- [[Orogeny]]
 	- [[Sessepinae]]
 - [[Guardian]]
 - [[Stone Eater]]
+- [[Season]]
+- [[Broken Earth Culture]]
 
 ## Characters
 
@@ -16,4 +20,5 @@
 - [[Stillness]]
 - [[Yumenes]]
 - [[Allia]]
-- [[Meor]]
+- [[Meov]]
+- [[Tishiro]]

@@ -157,5 +157,17 @@
       ],
       "key": "/"
     }
+  ],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": [],
+  "cycle-through-panes:cycle-through-panes-reverse": [],
+  "cycle-through-panes:cycle-through-panes": [],
+  "cycle-through-panes:focus-on-last-active-pane": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
   ]
 }

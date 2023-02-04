@@ -1,0 +1,4 @@
+- a [[Rogga]]
+	- untrained so his power and control is far inferior than a [[Fulcrum]] [[Rogga|Orogene]]
+- leader of [[Meov]]
+- bi

@@ -1,4 +1,5 @@
 - ten-ring [[Rogga|Orogene]]
 	- the only one
+- gay
 - can eavedrop through stones
 - about 40yo when met [[Syenite]]
