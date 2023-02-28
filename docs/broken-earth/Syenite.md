@@ -7,6 +7,7 @@ alias: Damaya, Eassun
 ## Life before [[Fulcrum]]
 
 - original name Damaya
+- a [[Guardian]] [[Schaffa]] brought her to the [[Fulcrum]]
 
 ## Life in [[Fulcrum]]
 

@@ -28,13 +28,13 @@ Book 1 of [[Broken Earth]]
 	- long-term two-and-a-half-some-ship with [[Alabaster]] & [[Innom]]
 	- had a baby with [[Alabaster]] named [[Corrodum]]
 	- shut the volcano in [[Allia]] by sending the lava back to the underground when cruising near it, but discovered by a [[Guardian]]
-	- some [[Guardian]]s went for [[Syenite]] & [[Alabaster]], [[Syenite]] channeled the power of the [[Obelisk]] [[Amethyst]] and destroyed everything while killing [[Corrodum]] for fear of him being converted to a [[Node Maintainer]] by the [[Fulcrum]]
+	- some [[Guardian]]s including [[Schaffa]] went for [[Syenite]] & [[Alabaster]], [[Syenite]] channeled the power of the [[Obelisk]] [[Amethyst]] and destroyed everything while killing [[Corrodum]] for fear of him being converted to a [[Node Maintainer]] by the [[Fulcrum]]
 	- escaped to [[Tishiro]] afterwards
 
 ### [[Syenite|Damaya]]
 
 - before and begenning of [[Syenite]]'s time at the [[Fulcrum]]
-- discovered in the middle of nowhere and was sent to the [[Fulcrum]]
+- discovered in the middle of nowhere and was sent to the [[Fulcrum]] by [[Schaffa]]
 - straight As in school
 - no friends
 - like to wander around the [[Fulcrum]]
